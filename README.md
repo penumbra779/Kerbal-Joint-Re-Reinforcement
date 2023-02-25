@@ -1,6 +1,5 @@
 # Kerbal-Joint-Re-Renforcement
-Modifies joint rigidity and attachment stiffness to improve upon wobbly craft
-
+### Modifies joint rigidity and attachment stiffness to improve upon wobbly craft
 
 Download the PhysicSettings.json file and replace it within your AppData directory for KSP2 located at:
 
