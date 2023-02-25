@@ -4,4 +4,3 @@
 
 
 >Download the PhysicSettings.json file and place it the following location: C:\Users\YOUR PROFILE\AppData\LocalLow\Intercept Games\Kerbal Space Program 2\Global
->Make sure to back it up before doing so
