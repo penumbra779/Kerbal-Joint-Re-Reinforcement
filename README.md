@@ -1,4 +1,4 @@
-# Kerbal Joint Re-Renforcement
+# Kerbal Joint Re-Reinforcement
 ### Modifies joint rigidity and attachment stiffness to improve upon wobbly craft
 
 
